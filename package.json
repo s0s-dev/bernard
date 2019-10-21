@@ -1,0 +1,25 @@
+{
+  "name": "bernard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bernard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0s-dev/bernard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0s-dev/bernard/issues"
+  },
+  "homepage": "https://github.com/s0s-dev/bernard#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  }
+}
