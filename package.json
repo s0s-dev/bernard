@@ -21,5 +21,6 @@
     "fs": "0.0.1-security",
     "request": "^2.88.0",
     "winston": "^3.2.1"
-  }
+  },
+  "devDependencies": {}
 }
